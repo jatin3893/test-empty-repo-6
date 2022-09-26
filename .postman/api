@@ -1,0 +1,15 @@
+id = fb75f79d-dd6b-4fec-a127-02d374e2a72c
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"ankit.yaml.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
